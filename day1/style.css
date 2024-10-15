@@ -1,0 +1,14 @@
+
+#nav{
+    background-color:rgb(133,65,65) ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+li{
+    list-style-type:none;
+}
+    #home:hover{
+        color:rgb(345,245,244);
+    }
